@@ -1,1 +1,1 @@
-# Dijkstra-s
+This program implements Dijkstra’s Algorithm to discover the shortest direction between two places on a fictional college campus. The graph is hardcoded the use of an adjacency listing and robotically transformed to a bidirectional format, permitting travel in both guidelines. Users enter a starting and ending location, and this system outputs the shortest travel time and path.
