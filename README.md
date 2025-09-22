@@ -8,6 +8,6 @@ Enter destination: Gym
 
 And the output is 
 
-Shortest travel time: 11 minutes</br>
+Shortest travel time: 13 minutes</br>
 Route: Dorm -> Library -> Lab -> Gym
 
